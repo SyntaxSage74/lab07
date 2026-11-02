@@ -1,0 +1,23 @@
+# Default: CRLF for text files
+* text=auto eol=crlf
+
+# Java source files
+*.java text eol=crlf
+
+# Gradle files
+*.gradle text eol=crlf
+*.gradle.kts text eol=crlf
+
+# Configuration files
+*.properties text eol=crlf
+*.xml text eol=crlf
+*.json text eol=crlf
+*.yml text eol=crlf
+*.yaml text eol=crlf
+
+# Shell scripts
+*.sh text eol=crlf
+
+# Windows scripts
+*.bat text eol=crlf
+*.cmd text eol=crlf
